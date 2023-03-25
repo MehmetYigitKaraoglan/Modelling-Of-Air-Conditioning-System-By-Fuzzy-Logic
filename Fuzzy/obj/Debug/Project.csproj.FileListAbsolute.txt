@@ -1,0 +1,15 @@
+C:\Users\Yigit\source\repos\Project\bin\Debug\Project.exe.config
+C:\Users\Yigit\source\repos\Project\bin\Debug\Project.exe
+C:\Users\Yigit\source\repos\Project\bin\Debug\Project.pdb
+C:\Users\Yigit\source\repos\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Yigit\source\repos\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yigit\source\repos\Project\obj\Debug\Project.Form1.resources
+C:\Users\Yigit\source\repos\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Yigit\source\repos\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Yigit\source\repos\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Yigit\source\repos\Project\obj\Debug\Project.exe
+C:\Users\Yigit\source\repos\Project\obj\Debug\Project.pdb
+C:\Users\Yigit\source\repos\Project\obj\Debug\Project.Fuzzy_Rules.resources
+C:\Users\Yigit\source\repos\Project\obj\Debug\Project.Bulaniklastirma.resources
+C:\Users\Yigit\source\repos\Project\obj\Debug\Project.CalisanKurallar.resources
+C:\Users\Yigit\source\repos\Project\obj\Debug\Project.Durulastirma.resources
